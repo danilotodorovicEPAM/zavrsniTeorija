@@ -1,5 +1,5 @@
 Zavrsni zadatak:
 
 1. Download-ovati test case-ove sa google sheets-a i sacuvati ih kao .xlsx file
-2. Napraviti svoj branch sa nazivom zavrsniRadVaseIme (mozete na githubu videti primer kako branch treba da izgleda)
+2. Klonirati projekat, napraviti svoj branch sa nazivom zavrsniRadVaseIme (mozete na githubu videti primer kako branch treba da izgleda)
 3. Pushati .xlsx file (test case-ove) na svoju granu
